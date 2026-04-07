@@ -1,0 +1,17 @@
+---
+title: "Research"
+---
+
+My current research agenda involves decision under uncertainty and aggregation economics.
+
+## Working Papers
+### Bundle Fisheries Under Ecological Uncertainty
+**Status:** Working paper 
+
+### Prices vs. Quantities Under Complexity Constraints
+**Status:** Working paper
+
+## Work in Progress
+### Weak Property Rights and Resource Extraction
+
+### Aggregate Quotas under Depletion Risk (with Shu-chen Tsao)

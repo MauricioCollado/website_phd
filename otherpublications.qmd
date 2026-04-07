@@ -1,0 +1,39 @@
+---
+title: "Other Publications"
+---
+::: {.pub-page}
+
+### Perú Crecimiento Verde: Análisis Cuantitativo de Políticas Verdes en Sectores Seleccionados de la Economía
+
+Néstor Mauricio Collado Duran; Elsa Galarza; Bruno Seminario De Marzi; Daniel de la Torre Ugarte; Maria Alejandra Zegarra
+
+<div class="pub-links">
+  <a href="https://www.researchgate.net/publication/323693322_Peru_Crecimiento_Verde_Analisis_Cuantitativo_de_Politicas_Verdes_en_sectores_seleccionados_de_la_Economia" aria-label="Report" title="Report">
+    <i class="bi bi-file-earmark-text"></i>
+  </a>
+</div>
+
+<details>
+<summary>Summary</summary>
+
+This study evaluates the impact of green policies in the forestry, urban transport, and agriculture sectors in the year 2035. It uses the Millennium Institute’s T-21 model for quantitative analysis, integrating economic, social, and environmental dimensions. The results suggest that green policies can contribute to reducing greenhouse gases, though economic and social benefits vary across sectors.
+
+</details>
+:::
+
+### Perú Crecimiento Verde: Análisis de la Economía Peruana
+
+Néstor Mauricio Collado Duran; Elsa Galarza; Bruno Seminario De Marzi; Daniel de la Torre Ugarte; Maria Alejandra Zegarra
+
+<div class="pub-links">
+  <a href="https://www.researchgate.net/publication/308635031_Peru_Crecimiento_Verde_Analisis_de_la_Economia_Peruana" aria-label="Report" title="Report">
+    <i class="bi bi-file-earmark-text"></i>
+  </a>
+</div>
+
+<details>
+<summary>Summary</summary>
+
+This document has three objectives: to summarize relevant information and analyze political indicators and trends that can guide the PAGE initiative’s intervention in Peru; to lay the groundwork for a second quantitative assessment of green economy policies in key sectors; and to establish the basis for developing a green growth strategy and discussing it with relevant stakeholders.
+
+</details>

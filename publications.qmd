@@ -1,0 +1,101 @@
+---
+title: "Peer-Reviewed Publications"
+---
+::: {.pub-page}
+
+### Indexing Spatio-temporal Maritime Trajectories for Route Prediction
+
+Siya Qiu; Yihong Luo; Mauricio Collado; Qiong Luo; Jing Tang
+
+<div class="pub-links">
+  <a href="https://ieeexplore.ieee.org/abstract/document/11370441" aria-label="Paper" title="Paper">
+    <i class="bi bi-file-earmark-text"></i>
+  </a>
+</div>
+
+<details>
+<summary>Abstract</summary>
+
+Maritime trajectory modeling is crucial for ensuring the safety and efficiency of maritime transportation. However, the unique challenges of the open ocean, such as the lack of a pre-determined road network and infrequent vessel interactions, render traditional land-based route prediction systems inadequate. To overcome these obstacles, we present ST-Shape, a spatio-temporal trajectory indexing method designed to swiftly retrieve pertinent historical maritime trajectories, thereby facilitating long-term trajectory prediction. ST-Shape approximates trajectories using two-dimensional polygons and constructs the index with shape indices, thus preserving the spatio-temporal properties of each trajectory. Concurrently, we introduce a straightforward yet robust model that harnesses this indexed data to predict vessel movements. To underpin our research, we have curated a comprehensive maritime trajectory dataset from the Atlantic and Pacific Oceans, classified according to diverse navigational scenarios. Our endeavor serves as a foundational step towards expedited spatio-temporal trajectory retrieval for maritime trajectory prediction, marking a significant stride in enhancing maritime safety and navigational efficiency.
+
+</details>
+
+### A Deep Decarbonization Pathway for Peru's Rainforest
+
+Daniel De La Torre Ugarte; Mauricio Collado; Fernando Requejo; Ximena Gomez; Carlos Heros
+
+<div class="pub-links">
+  <a href="https://www.sciencedirect.com/science/article/pii/S2211467X21000614" aria-label="Paper" title="Paper">
+    <i class="bi bi-file-earmark-text"></i>
+  </a>
+</div>
+
+<details>
+<summary>Abstract</summary>
+
+Peru holds an important portion of the South American rainforest. An average deforestation rate of 145,000 hectares per year makes it the largest source of greenhouse gas emissions. Based on the drivers of deforestation, this paper proposes a deep decarbonization pathway through the year 2050 with the purpose of taking the country closer to achieving the net-zero emissions goal. The impacts of the pathway are estimated using POLYSYS-Peru, an equilibrium displacement model for the integrated analysis of land-use changes and agriculture. The results indicate that the proposed pathway, by preventing the deforestation of 4 million hectares of primary forests, would reduce greenhouse gas emissions substantially relative to business as usual and beyond the Nationally Determined Contributions.
+
+</details>
+
+### Net-zero Deep Decarbonization Pathways in Latin America: Challenges and Opportunities
+
+Christopher Bataille; Henri Waisman; Yann Briand; Johannes Svensson; Adrien Vogt-Schilb; Marcela Jaramillo; Ricardo Delgado; Ricardo Arguello; Leon Clarke; Thomas Wild; Francisco Lallana; Gonzalo Bravo; Gustavo Nadal; Gaëlle Le Treut; Guido Godinez; Jairo Quiros-Tortos; Eunice Pereira; Mark Howells; Daniel Buira; Jordi Tovilla; Jamil Farbes; Jones Ryan; Daniel De La Torre Ugarte; Mauricio Collado; Fernando Requejo; Ximena Gomez; Rafael Soria; Daniel Villamar; Pedro Rochedo; Mariana Imperio
+
+<div class="pub-links">
+  <a href="https://www.sciencedirect.com/science/article/pii/S2211467X20300638" aria-label="Paper" title="Paper">
+    <i class="bi bi-file-earmark-text"></i>
+  </a>
+</div>
+
+<details>
+<summary>Abstract</summary>
+
+This synthesis paper presents the objectives, approach, and cross-cutting results of the Latin American Deep Decarbonization Pathways project. It synthesizes and compares detailed national and sectoral pathways to 2050 compatible with the Paris Agreement objectives and domestic development priorities in Argentina, Colombia, Costa Rica, Ecuador, Mexico, and Peru. It derives insights for the design of domestic policy packages and identifies priorities for international cooperation.
+
+</details>
+
+### Evaluation of Early Action Mechanisms in Peru Regarding Preparedness for El Niño
+
+Julio Aguirre; Daniel De La Torre Ugarte; Juan Bazo; Paulo Quequezana; Mauricio Collado
+
+<div class="pub-links">
+  <a href="https://link.springer.com/article/10.1007/s13753-019-00245-x" aria-label="Paper" title="Paper">
+    <i class="bi bi-file-earmark-text"></i>
+  </a>
+</div>
+
+<details>
+<summary>Abstract</summary>
+
+This article provides an impact evaluation of an intervention in Peru regarding preparedness for El Niño impacts in Picsi District of Chiclayo Province in Peru's northwestern coastal Lambayeque region. The intervention involved the provision of special kits that reduce potential damage to homes as a consequence of rainfall and floods associated with an El Niño-Southern Oscillation event. Using propensity score matching techniques, the study finds a positive impact of the program in mitigating house damage.
+
+</details>
+
+### Examination of the Peruvian Anchovy Individual Vessel Quota (IVQ) System
+
+Kailin Kroetz; James N. Sanchirico; Elsa Galarza Contreras; David Corderi Novoa; Nestor Collado; Elaine W. Swiedler
+
+<div class="pub-links">
+  <a href="https://www.sciencedirect.com/science/article/pii/S0308597X17308539" aria-label="Paper" title="Paper">
+    <i class="bi bi-file-earmark-text"></i>
+  </a>
+</div>
+
+<details>
+<summary>Abstract</summary>
+
+This paper examines changes following the implementation of a catch share system in the Peruvian anchovy fishery, the world's largest commercial fishery by volume. After implementation of the IVQ management system, there was a shift toward higher value product, more fishing days, fleet consolidation over time, and higher variable harvesting profit.
+
+</details>
+
+### Fishing Rights: The Case of the Peruvian Anchoveta Fishery
+
+Elsa Galarzar; Nestor Collado
+
+<details>
+<summary>Abstract</summary>
+
+The implementation in 2009 of maximum catch limits per vessel in the industrial anchoveta fishery engendered a series of changes in fisheries management. This research estimates resource rent for the industrial anchoveta fishery for 2011, compares effort under open access and the quota regime, and discusses the current payment for fishing rights along with private sector contributions.
+
+</details>
+:::

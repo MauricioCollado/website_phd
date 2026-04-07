@@ -1,0 +1,37 @@
+---
+title: "Teaching"
+---
+
+## Courses
+
+### Bren School of Environmental Science & Management (UCSB)
+
+#### ESM 245: Cost-Benefit Analysis and Non-market Valuation  
+**Teaching Assistant, Fall 2023, Fall 2024, Fall 2025**
+
+This course examines the economic theory of environmental policy, with particular emphasis on cost-benefit analysis and methods for valuing non-market environmental goods. Topics include ecosystem protection, pollution control, and applied tools for environmental decision-making.
+
+As a teaching assistant, I helped design assignments that asked students to replicate and adapt peer-reviewed papers using R. I also advised students on their term projects, many of which were connected to their graduate group projects.
+
+#### ESM 204: Economics of Environmental Management  
+**Teaching Assistant, Spring 2024, Winter 2025, Winter 2026**
+
+This course provides a foundation in environmental economics, focusing on the causes of environmental problems and the economic tools available to address them. It covers topics such as externalities, climate change, renewable resource management, and the distributional consequences of environmental harms and policy responses.
+
+As a teaching assistant, I helped redesign the course each quarter to fit the backgrounds and professional goals of students from diverse fields. I also contributed to assignments that balanced economic theory, quantitative reasoning, and coding.
+
+### Universidad del Pacífico (Peru)
+
+#### Economics I  
+**Teaching Assistant**
+
+#### Microeconomics I  
+**Teaching Assistant**
+
+## Teaching Interests
+
+My teaching interests include environmental economics, natural resource economics, cost-benefit analysis, and the use of quantitative tools for applied policy analysis.
+
+## Code and Replication
+
+Materials and replication exercises will be posted here.

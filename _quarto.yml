@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mauricio Collado"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: publications.qmd
+        text: Publications
+      - href: otherpublications.qmd
+        text: Other Publications
+    right:
+      - text: CV
+        href: files/CV_Mauricio_Collado.pdf
+      - text: GitHub
+        href: https://github.com/MauricioCollado
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
