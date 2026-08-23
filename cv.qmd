@@ -1,3 +1,17 @@
 ---
 title: "CV"
 ---
+
+You can view my full CV below or [download the PDF](files/Collado_Mauricio_CV_full_Aug_26.pdf).
+
+<a href="files/Collado_Mauricio_CV_full_Aug_26.pdf" class="btn-main" download><i class="bi bi-download"></i> Download CV (PDF)</a>
+
+<iframe src="files/CV_Mauricio_Collado.pdf" width="100%" height="900px" style="border: 1px solid #ddd; border-radius: 8px; margin-top: 1.5rem;">
+This browser does not support embedded PDFs. Please <a href="files/CV_Mauricio_Collado.pdf">download the PDF</a> to view it.
+</iframe>
+
+---
+ 
+**Contact:** [nestorcollado@ucsb.edu](mailto:nestorcollado@ucsb.edu) · Bren School of Environmental Science & Management, University of California, Santa Barbara
+ 
+*References available upon request.*

@@ -6,6 +6,12 @@ title: "Teaching"
 
 ### Bren School of Environmental Science & Management (UCSB)
 
+#### ESM 279: Financial Management and Environmental Accounting 
+**Teaching Assistant, Spring 2026**
+This course reviews the key concepts and tools of corporate financial management and reporting and environmental accounting. 
+
+As a teaching assistant, I helped design assignments that asked students to search for real data and use the tools in R, Excel or any software of their preference. I gave lecture sharing my experience in the stock market. 
+
 #### ESM 245: Cost-Benefit Analysis and Non-market Valuation  
 **Teaching Assistant, Fall 2023, Fall 2024, Fall 2025**
 
@@ -23,10 +29,12 @@ As a teaching assistant, I helped redesign the course each quarter to fit the ba
 ### Universidad del Pacífico (Peru)
 
 #### Economics I  
-**Teaching Assistant**
+**Teaching Assistant, Semester I of 2012**
+This course introduces students to the core concepts of economics.
 
 #### Microeconomics I  
-**Teaching Assistant**
+**Teaching Assistant, 2012**
+The course aims to study, at an intermediate level, the role of the price mechanism in the allocation of scarce resources, with a partial equilibrium approach.
 
 ## Teaching Interests
 

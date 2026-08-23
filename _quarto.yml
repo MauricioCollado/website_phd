@@ -18,7 +18,7 @@ website:
         text: Other Publications
     right:
       - text: CV
-        href: files/CV_Mauricio_Collado.pdf
+        href: cv.qmd
       - text: GitHub
         href: https://github.com/MauricioCollado
 

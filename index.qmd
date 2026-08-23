@@ -4,7 +4,7 @@ page-layout: full
 ---
 
 ::: {.columns .v-center}
-::: {.column width="35%"}
+::: {.column width="50%"}
 
 ::: {.profile-card}
 ![](images/mauricio.jpg){.profile-photo}
@@ -12,11 +12,9 @@ page-layout: full
 ### Contact
 
 <a href="mailto:nestorcollado@ucsb.edu" aria-label="Email" title="Email"><i class="bi bi-envelope"></i></a>
-<a href="https://orcid.org/0000-0002-2107-029X" target="_blank" aria-label="ORCID" title="ORCID">ORCID</a>
+<a href="https://orcid.org/0000-0002-2107-029X" target="_blank" aria-label="ORCID" title="ORCID"><i class="bi bi-person-badge"></i></a>
 <a href="https://www.linkedin.com/in/nestor-c-971956101" target="_blank" aria-label="LinkedIn" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
 <a href="https://github.com/MauricioCollado" target="_blank" aria-label="GitHub" title="GitHub"><i class="bi bi-github"></i></a>
-
-nestorcollado@ucsb.edu
 
 PhD Candidate  
 Bren School of Environmental Science & Management  
@@ -25,10 +23,10 @@ University of California, Santa Barbara
 
 :::
 
-::: {.column width="65%"}
+::: {.column width="70%"}
 
 ::: {.hero-left}
-# Mauricio Collado
+# Nestor (Mauricio) Collado
 
 I am a PhD candidate in Environmental Economics at the Bren School of Environmental Science & Management at the University of California, Santa Barbara.
 
@@ -36,6 +34,8 @@ My research studies how regulators choose between prices, quantities, and bundle
 
 Across these settings, I am interested in how policy design changes when regulators cannot finely target behavior, species, or emissions, and how relatively coarse instruments can still improve environmental and economic outcomes under uncertainty.
 
+
+**Job Market Paper:** [Bundle Fisheries Under Ecological Uncertainty](research.qmd) · [PDF](files/Collado_JMP_Bundle_Fisheries.pdf)
 [View Current Research](research.qmd){.btn-main}
 [View Teaching](teaching.qmd){.btn-secondary}
 :::
