@@ -23,16 +23,12 @@ University of California, Santa Barbara
 
 :::
 
-::: {.column width="70%"}
+::: {.column width="65%"}
 
 ::: {.hero-left}
 # Nestor (Mauricio) Collado
 
-I am a PhD candidate in Environmental Economics at the Bren School of Environmental Science & Management at the University of California, Santa Barbara.
-
-My research studies how regulators choose between prices, quantities, and bundled policy instruments when information is limited and ecosystems are complex. I work primarily in environmental and resource economics, with applications to fisheries, natural resources, and climate policy.
-
-Across these settings, I am interested in how policy design changes when regulators cannot finely target behavior, species, or emissions, and how relatively coarse instruments can still improve environmental and economic outcomes under uncertainty.
+I am a PhD candidate in Environmental Economics at the Bren School of Environmental Science & Management at the University of California, Santa Barbara. I study how regulators should design environmental and resource policy instruments (taxes, quotas, and bundles of them) when information about the underlying system is limited and outcomes are uncertain, with applications to renewable and non-renewable resources. In these cases, regulators cannot finely target behavior, goods, or bads. My research asks how relatively coarse instruments can still improve environmental and economic outcomes under uncertainty.
 
 
 **Job Market Paper:** [Bundle Fisheries Under Ecological Uncertainty](research.qmd) · [PDF](files/Collado_JMP_Bundle_Fisheries.pdf)
@@ -45,17 +41,18 @@ Across these settings, I am interested in how policy design changes when regulat
 
 ## Research Themes
 
+
+### Environmental and Resource Economics
+
+My work examines extraction, and resource management under uncertainty.
+
 ### Environmental policy under limited information
 
 I study how information constraints shape the choice between taxes, quotas, and broader policy bundles.
 
-### Fisheries and natural resource economics
+### Applied Microeconomics Theory
 
-My work examines multispecies fisheries, extraction, and resource management under uncertainty.
-
-### Dynamic modeling for policy design
-
-I use dynamic economic models to understand regulation when ecosystems are complex and policy must remain feasible in practice.
+I rely on dynamic economic models to understand regulation when ecosystems are complex and policy must remain feasible in practice.
 
 
 

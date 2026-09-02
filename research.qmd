@@ -12,7 +12,7 @@ My current research agenda involves decision under uncertainty and aggregation e
   <a href="files/Collado_JMP_Bundle_Fisheries.pdf" aria-label="Download PDF" title="Download PDF"><i class="bi bi-file-earmark-pdf"></i> PDF</a>
 </div>
 
-*Abstract*: Many fisheries cannot be regulated one species at a time, and some fisheries manage multiple stocks under a single economic instrument. I study when such bundling is desirable and whether it should take the form of a shared quota or a shared landing fee (tax), extending the constant-escapement framework of Reed (1979) and Weitzman (2002) to a multispecies fishery under ecological uncertainty.
+*Abstract*: Many fisheries cannot be regulated one species at a time, and some fisheries manage multiple stocks under a single economic instrument. I study when such bundling is desirable and whether it should take the form of a shared quota or a shared landing fee (tax), extending the constant-escapement framework of Reed (1979) and Weitzman (2002) to a multispecies fishery under ecological uncertainty. 
 
 The central condition for a well-designed basket is equalizing marginal profits across species, a condition that combines biological productivity, harvesting costs, and prices. Under this criterion, both instruments are first-best when shocks are deterministic, but under uncertainty both become second-best, with the tax outperforming the quota. The main reason for this difference is that the quota must be set before shocks are realized. As the basket grows, the quota's disadvantage is diversified away, but a second cost, the mismatch from pooling heterogeneous species, grows with basket size. Larger baskets are not always better.
 

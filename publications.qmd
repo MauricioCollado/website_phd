@@ -3,6 +3,8 @@ title: "Peer-Reviewed Publications"
 ---
 ::: {.pub-page}
 
+**Note**: I publish under both N. Collado and M. Collado
+
 ### Indexing Spatio-temporal Maritime Trajectories for Route Prediction
 
 Siya Qiu; Yihong Luo; Mauricio Collado; Qiong Luo; Jing Tang

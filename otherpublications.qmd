@@ -3,6 +3,8 @@ title: "Other Publications"
 ---
 ::: {.pub-page}
 
+**Note**: I publish under both N. Collado and M. Collado
+
 ### Perú Crecimiento Verde: Análisis Cuantitativo de Políticas Verdes en Sectores Seleccionados de la Economía
 
 Néstor Mauricio Collado Duran; Elsa Galarza; Bruno Seminario De Marzi; Daniel de la Torre Ugarte; Maria Alejandra Zegarra
